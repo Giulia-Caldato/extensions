@@ -1,0 +1,20 @@
+body {
+	font-family: helvetica, arial, sans-serif;
+	background-color: coral;
+}
+h2 {
+	color: #006400;
+	text-align: center;
+}
+#container {
+	display: grid;
+	background-color: #7FFF00;
+	width: 85%;
+	left: 2px;
+	top: 2px;
+	position: absolute;
+	height: 100%;
+	padding: 10px;
+	opacity: 0.5
+}
+
